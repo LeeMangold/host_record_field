@@ -12,7 +12,7 @@
             "Drupal\\host_record_field\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "support": {
         "issues": "",
         "source": ""
